@@ -1,0 +1,6 @@
+{
+  "name": "DOCE - Ecosistema IFTS 12",
+  "description": "Ecosistema de acompañamiento pedagógico y alerta temprana para el IFTS N.º 12, con Red Neuronal predictiva y Agente DOC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
